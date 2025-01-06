@@ -1,4 +1,4 @@
-﻿# SymfonyTailwindDompdfExcel
+﻿# Etapes d'initialisation
 
 ## 1 : git clone --single-branch --branch init https://github.com/UltraDard/SymfonyTailwindDompdfExcel.git
 
